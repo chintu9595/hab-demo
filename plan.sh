@@ -1,6 +1,6 @@
 #!/usr/env bash
 
-pkg_origin=dmbettinger
+pkg_origin=chef-hab
 pkg_name=mytutorialapp
 pkg_version=0.1.0
 pkg_maintainer="Your Name <your email address>"
